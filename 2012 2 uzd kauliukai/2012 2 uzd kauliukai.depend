@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484407308 source:c:\users\admin\desktop\kb\2012 2 uzd kauliukai\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
